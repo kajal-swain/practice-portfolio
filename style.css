@@ -7,8 +7,9 @@ h1{
 /* tablet view */
 @media(max-width: 768px){
 
-h1{
-    color: darkorange;
+    h1{
+        color: darkorange;
+    }
 }
 /* mobile view */
 @media(max-width: 500px){
